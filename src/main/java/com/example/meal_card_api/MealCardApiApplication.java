@@ -1,0 +1,13 @@
+package com.example.meal_card_api;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class MealCardApiApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(MealCardApiApplication.class, args);
+	}
+
+}
